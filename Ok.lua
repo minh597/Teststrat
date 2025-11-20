@@ -257,7 +257,6 @@ local function setupWaveListener()
                     macroLoaded = true
                     print("Wave 1 detected, loading macro...")
                     loadMacro(config.macroURL) 
-                    end)
                 end
                 
                 if wave == config.AtWave and config.SellAllTower and config.AtWave > 0 then
