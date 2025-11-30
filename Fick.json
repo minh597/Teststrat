@@ -1,1 +1,37 @@
-hi
+[
+  {
+    "name": "Tai nghe không dây",
+    "description": "Tai nghe bluetooth chống ồn, pin 20h",
+    "quantity": 15,
+    "price": 750000,
+    "image": "https://example.com/images/headphones.jpg"
+  },
+  {
+    "name": "Bàn phím cơ",
+    "description": "Bàn phím cơ RGB, switch blue, phù hợp gaming",
+    "quantity": 10,
+    "price": 1200000,
+    "image": "https://example.com/images/keyboard.jpg"
+  },
+  {
+    "name": "Chuột gaming",
+    "description": "Chuột chơi game có dây, 16000 DPI, led RGB",
+    "quantity": 25,
+    "price": 450000,
+    "image": "https://example.com/images/mouse.jpg"
+  },
+  {
+    "name": "Màn hình 24 inch",
+    "description": "Màn hình full HD, tần số quét 144Hz, viền mỏng",
+    "quantity": 8,
+    "price": 3500000,
+    "image": "https://example.com/images/monitor.jpg"
+  },
+  {
+    "name": "Loa bluetooth",
+    "description": "Loa di động chống nước, pin 10h",
+    "quantity": 20,
+    "price": 600000,
+    "image": "https://example.com/images/speaker.jpg"
+  }
+]
