@@ -5,5 +5,19 @@
     "quantity": 15,
     "price": 750000,
     "image": "https://example.com/images/headphones.jpg"
-  }
+  },
+  {
+    "name": "Tai nghe không dây",
+    "description": "Tai nghe bluetooth chống ồn, pin 20h",
+    "quantity": 15,
+    "price": 750000,
+    "image": "https://example.com/images/headphones.jpg"
+  },
+  {
+    "name": "Tai nghe không dây",
+    "description": "Tai nghe bluetooth chống ồn, pin 20h",
+    "quantity": 15,
+    "price": 750000,
+    "image": "https://example.com/images/headphones.jpg"
+  },
 ]
