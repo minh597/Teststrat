@@ -23,7 +23,11 @@ if workspace:FindFirstChild("Elevators") then
         }
     }
     remoteFunction:InvokeServer(unpack(args))
+else
+    remoteFunction:InvokeServer("Voting", "Skip")
+    task.wait(1)
 end
+
 
 local towerFolder = workspace:WaitForChild("Towers")
 
